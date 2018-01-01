@@ -1,0 +1,1 @@
+MrGAN is a version of a Generative Adversarial Netowrk that uses matchmaking pairing to train the generators. It is composed of numerous networks with the same number of discriminator and generators thereby creating the possibility of creating an arena for the generators and discriminators.

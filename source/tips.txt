@@ -1,0 +1,3 @@
+-Adjusting the Number of networks is currently unavailable
+-Using a larger dataset may improve training
+-Train on a strong computer, avoid using a puny computer to train. (It might take forever)
